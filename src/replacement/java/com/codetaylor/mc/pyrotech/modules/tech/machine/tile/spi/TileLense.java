@@ -1,7 +1,5 @@
 package com.codetaylor.mc.pyrotech.modules.tech.machine.tile.spi;
 
-import com.codetaylor.mc.athenaeum.network.tile.data.TileDataBoolean;
-import java.lang.reflect.Field;
 import net.minecraft.item.ItemStack;
 
 public class TileLense {
